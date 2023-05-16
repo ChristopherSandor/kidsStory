@@ -1,0 +1,17 @@
+.carousel-control-next-icon{
+    background-color: #AA48F8;
+    border-radius: 50%;
+    opacity: 100%;
+}
+.carousel-control-prev-icon{
+    background-color: #AA48F8;
+    border-radius: 50%;
+    opacity: 100%;
+}
+.navbar{
+    background-color: #FFFF05!important;
+}
+.carousel-indicators [data-bs-target] {
+    background-color: #AA48F8;
+    height: 7px;
+}
