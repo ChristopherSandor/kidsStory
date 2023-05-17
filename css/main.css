@@ -10,8 +10,16 @@
 }
 .navbar{
     background-color: #FFFF05!important;
+    box-shadow: 2px 2px 5px black;
 }
 .carousel-indicators [data-bs-target] {
     background-color: #AA48F8;
     height: 7px;
+}
+.navbar-brand{
+font-family: 'Playfair Display', serif;
+font-size: 42px;
+}
+.heightFillerOne{
+    height: 5vw;
 }
